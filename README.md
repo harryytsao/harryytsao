@@ -1,4 +1,6 @@
-### Hi there 👋
+### 😉 Hi 
+- 🧑‍💻 I like building full stack apps 
+- 💪 Reach me: harrytsao@ufl.edu or connect with me on LinkedIn! 
 
 <!--
 **harryytsao/harryytsao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
