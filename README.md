@@ -1,9 +1,9 @@
-### 😉 Hi 
-- 🧑‍💻 I like building full stack apps 
-- 💪 Reach me: harrytsao@ufl.edu or connect with me on LinkedIn! 
+### Hi and Welcome! 😌
+- 🧑‍💻 I'm Harry, a passionate full-stack developer with interests in machine learning and data science as well. 
+- 💪 Reach out to me at harrytsao@ufl.edu or connect with me on LinkedIn!
 
 <!--
-**harryytsao/harryytsao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**harryytsao/harryytsao** is a ✨ _special_ ✨ rep👋ository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
