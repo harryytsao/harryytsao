@@ -2,7 +2,7 @@
 - 🧑‍💻 I'm Harry, a passionate full-stack developer with interests in machine learning and data science as well. 
 - 💪 Reach out to me at harrytsao@ufl.edu or connect with me on LinkedIn!
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=harryytsao)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=harryytsao&theme=monokai-metallian&hide_border=true)](https://git.io/streak-stats)
 <!--
 **harryytsao/harryytsao** is a ✨ _special_ ✨ rep👋ository because its `README.md` (this file) appears on your GitHub profile.
 
